@@ -1,0 +1,79 @@
+11 Rope Ferry; Dicks House; 686, 46
+1953 Commons; South Mass, Robinson/Collis; 429, 747
+37 Dewey Field; Goldstein; 752, 96
+AQ; DDD, AXA; 126, 255
+AXA; KDE, AQ; 205, 321
+Baker; Rauner, Sanborn, Green North, Green Northwest; 567, 519
+Baker West; Sanborn, Blunt, Carson; 496, 504
+Bema; North Fayerweather; 918, 529
+Berry; Carson, Wheeler, Parker House; 577, 419
+Bildner; Gilman, Burke; 819, 280
+Blunt; Butterfield, Baker West, North Mass; 423, 508
+Bones Gate; FDA, KDE; 314, 358
+Brace; East Wheelock; 958, 623
+Buchanan; Tuck Dr, Thayer, Tuck, Murdough; 178, 509
+Burke; Sudikoff, Bildner, Fairchild; 775, 327
+Butterfield; Gold Coast, Blunt, FDA; 359, 509
+Carson; Rocky, Kemeny, Berry, Baker West; 495, 413
+Choate House; LALACS, Kemeny, Choates; 535, 269
+Choates; Dean's House, Choate House; 409, 217
+Cummings; Thayer, Murdough; 86, 589
+DDD; Roth Center, AQ; 187, 211
+Dana; Gilman, Traffic Light, LSC West, LSC East; 901, 206
+Dean's House; Choates; 350, 142
+Dicks House; 11 Rope Ferry, Rope Ferry; 657, 81
+Dragon; Observatory; 856, 331
+East Wheelock; XH, Brace; 993, 687
+FDA; Bones Gate, Rocky, Butterfield; 365, 374
+Fairchild; Burke, Steele; 729, 381
+Fayerweather; North Fayerweather, Gym; 844, 644
+Gilman; Dana, Bildner, McLaughlin, Kellogg; 858, 233
+Gold Coast; Tuck Dr, Butterfield; 295, 509
+Goldstein; Raven, Kellogg, 37 Dewey Field; 722, 207
+Green Center; Green East, Green West, Green Southeast, Green Southwest, Green Northeast, Green Northwest; 576, 711
+Green East; Green Center, Green Southeast, Green Northeast, Green Southwest, Green Northwest, Observatory Rd; 641, 707
+Green North; Green Northeast, Green Northwest, Baker; 570, 618
+Green Northeast; Rauner, Green North, Green East, Wentworth, Green Center; 636, 619
+Green Northwest; Sanborn, Green North, North Mass, Green West, Green Center, Baker, Green East; 503, 622
+Green South; Green Southeast, Green Southwest; 580, 798
+Green Southeast; Green South, Green East, New Hamp, Green Center; 647, 793
+Green Southwest; Robinson/Collis, Green South, Green West, Green Center, Green East; 510, 798
+Green West; Robinson/Collis, Green Center, South Mass, Green Northwest, Green Southwest; 503, 710
+Gym; XH, Observatory Rd, Fayerweather; 873, 725
+KDE; Bones Gate, AXA; 262, 337
+Kellogg; Gilman, Goldstein; 807, 135
+Kemeny; Choate House, Carson; 499, 333
+LALACS; Sherman, Choate House; 568, 220
+LSC East; LSC North, Traffic Light, Dana; 960, 115
+LSC North; LSC East, LSC West; 936, 71
+LSC West; LSC North, Traffic Light, Dana; 924, 121
+McLaughlin; Sudikoff, Gilman; 767, 247
+Mid Mass; North Mass, South Mass; 426, 657
+Moore; Sherman, Raven; 644, 213
+Murdough; Tuck, Thayer, Cummings, Buchanan; 84, 523
+New Hamp; Observatory Rd, Green Southeast; 739, 773
+North Fayerweather; Wentworth, Observatory, Fayerweather, Observatory Rd, Bema; 780, 608
+North Mass; Mid Mass, Green Northwest, Sanborn, Blunt; 426, 603
+Observatory; North Fayerweather, Dragon; 787, 541
+Observatory Rd; Gym, New Hamp, North Fayerweather, Green East; 809, 751
+Parker House; Raven, Sudikoff, Steele, Berry; 649, 313
+Rauner; Green Northeast, Wheeler, Baker, Richardson; 637, 556
+Raven; Goldstein, Sudikoff, Moore, Parker House; 696, 251
+Richardson; Wilder, Wentworth, Rauner; 725, 533
+Robinson/Collis; Green West, 1953 Commons, Green Southwest; 480, 753
+Rocky; FDA, Carson; 421, 389
+Rope Ferry; Sherman, Dicks House; 625, 129
+Roth Center; DDD; 231, 167
+Sanborn; Baker West, Green Northwest, Baker, North Mass; 498, 560
+Sherman; LALACS, Rope Ferry, Moore; 595, 177
+South Mass; 1953 Commons, Mid Mass, Green West; 430, 717
+Steele; Wheeler, Wilder, Fairchild, Parker House; 681, 434
+Sudikoff; McLaughlin, Raven, Burke, Parker House; 736, 288
+Thayer; Murdough, Cummings, Buchanan; 127, 548
+Traffic Light; LSC East, Dana, LSC West; 975, 183
+Tuck; Murdough, Buchanan; 116, 487
+Tuck Dr; Gold Coast, Buchanan; 240, 509
+Wentworth; North Fayerweather, Richardson, Green Northeast; 727, 606
+Wheeler; Steele, Rauner, Wilder, Berry; 646, 485
+Wilder; Richardson, Steele, Wheeler; 730, 477
+XH; Gym, East Wheelock; 932, 705
